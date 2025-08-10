@@ -1,4 +1,7 @@
 # Optimering
-Noter til optimerings forelæsninger (2024)
+Noter til optimerings forelæsninger (Datalogi 2024)
 
-Datalogi
+
+
+
+OBS: Dette er mine egne noter, så der kan forekomme fejl!
