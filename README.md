@@ -1,2 +1,2 @@
 # Optimering
-Noter til optimering (2024)
+Noter til optimerings forelæsninger (2024)
